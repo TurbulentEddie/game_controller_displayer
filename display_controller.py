@@ -6,7 +6,7 @@ fps = 30 # set update rate (frames per second)
 from sys import argv, exit
 console_str = '_'.join(argv[1:]).lower()
 if(not console_str):
-    exit('Usage: display_controller.py [controller name]'])
+    exit('Usage: display_controller.py [controller name]')
 
 # load controller definition file
 import json
