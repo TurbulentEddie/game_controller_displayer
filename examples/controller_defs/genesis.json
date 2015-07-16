@@ -1,0 +1,15 @@
+{
+    "console": "Genesis", 
+    "joystick": 0, 
+    "buttons": {
+        "up": 12, 
+        "down": 14, 
+        "left": 15, 
+        "right": 13, 
+        "a": 3, 
+        "b": 2, 
+        "c": 1, 
+        "start": 9
+    }, 
+    "corners": true
+}
