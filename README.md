@@ -1,5 +1,7 @@
 # Game Controller Displayer
 
+![Example of a Sega Genesis-like controller with B, start, and up-right pressed](/../screenshots/screenshots/genesis_example.png?raw=true)
+
 ## Requirements:
 Python 2.x (tested on 2.7.9)
 pygame (tested on 1.9.2a0)
